@@ -1,5 +1,39 @@
-# 💫 About Me:
-## 👋 ¡Hola! Soy Sergio A. Leal Benítez<br><br>Soy un desarrollador software en formación con una gran motivación por aprender y crecer dentro del mundo tech. <br><br>🎯 Me apasiona el desarrollo de software y estoy en constante evolución para dominar tecnologías modernas, metodologías ágiles y buenas prácticas de desarrollo. Aprendo rápido, disfruto del trabajo en equipo y no me asustan los retos.<br><br>👨‍💻 Actualmente tengo un **buen dominio del mundo frontend** , trabajando principalmente con React, JavaScript/TypeScript, HTML y CSS, lo que me permite crear interfaces limpias, accesibles y funcionales.<br><br>🧠 Paralelamente, me estoy formando en el desarrollo backend, con conocimientos en Java y dando mis primeros pasos con Spring Boot, mientras exploro Python con interés en la inteligencia artificial, la automatización de tareas y la creación de soluciones inteligentes que optimicen procesos.<br><br>---<br><br>### 🚀 Tecnologías e intereses actuales<br><br>- Frontend: React, TypeScript, JavaScript, HTML, CSS, Vite<br>- Backend: Java, Spring Boot (en formación), SQL<br>- Otros: Git, GitHub, APIs REST, Figma, herramientas de automatización<br>- Explorando: Python, AI, Automatizaciones, CI/CD, Clean Code<br><br>---<br><br>### 🎲 Fuera del código...<br><br>Cuando no estoy programando, me encanta mantenerme activo con el deporte y soy un auténtico apasionado de los juegos de mesa.  <br>De hecho, tengo un canal en Instagram donde comparto reseñas, opiniones y descubrimientos sobre los juegos que voy probando.<br><br>📸 Puedes seguir mis aventuras lúdicas en: [@d2caras](https://www.instagram.com/d2caras/)<br><br>---<br><br>> "No importa de dónde vienes, sino hacia dónde quieres llegar."<br><br>Si te interesa colaborar, conectar o simplemente intercambiar ideas, ¡estoy abierto a nuevas oportunidades!<br><br>📫 [LinkedIn](https://www.linkedin.com/in/sergiolealbenitez/)
+# 💫 About Me
+
+👋 Hi! I'm **Sergio A. Leal Benítez**
+
+I'm a software developer in training, highly motivated to learn and grow within the tech world.
+
+🎯 I'm passionate about software development and constantly evolving to master modern technologies, agile methodologies, and best development practices. I'm a fast learner, enjoy teamwork, and I'm not afraid of challenges.
+
+👨‍💻 I currently have a solid grasp of frontend development, working mainly with **React**, **JavaScript/TypeScript**, **HTML**, and **CSS**, allowing me to build clean, accessible, and functional user interfaces.
+
+🧠 At the same time, I'm training in backend development, with knowledge in **Java** and taking my first steps with **Spring Boot**, while exploring **Python** with an interest in **artificial intelligence**, **task automation**, and building smart solutions to optimize processes.
+
+---
+
+## 🚀 Current Technologies & Interests
+
+- **Frontend**: React, TypeScript, JavaScript, HTML, CSS, Vite  
+- **Backend**: Java, Spring Boot (learning), SQL  
+- **Others**: Git, GitHub, REST APIs, Figma, automation tools  
+- **Exploring**: Python, AI, Automations, CI/CD, Clean Code
+
+---
+
+## 🎲 Beyond the Code...
+
+When I'm not programming, I love staying active through sports and I'm a huge fan of board games.  
+In fact, I run an Instagram channel where I share reviews, opinions, and discoveries about the games I try.
+
+📸 You can follow my board game adventures at: [**@d2caras**](https://www.instagram.com/d2caras)
+
+---
+
+> _"It doesn't matter where you come from, but where you want to go."_
+
+If you're interested in collaborating, connecting, or just exchanging ideas — I'm open to new opportunities!
+📫 [LinkedIn](https://www.linkedin.com/in/sergiolealbenitez/)
 
 
 ## 🌐 Socials:
